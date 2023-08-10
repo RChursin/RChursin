@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RChursin&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=2C70FF75&stroke=EBD2BA)]    
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RChursin&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=2C70FF75&stroke=EBD2BA)  
 
 <!--
 **RChursin/RChursin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
