@@ -1,6 +1,6 @@
 # Hello, world! 👋 I'm Roman Chursin
 
-Hi there! I'm deeply passionate about automation and have been working extensively with tools like Selenium and the pytest framework. 
+I'm deeply passionate about automation and have been working extensively with tools like Selenium and the pytest framework. 
 It's been a thrilling journey automating processes at Kajabi. 
 Lately, I've also been diving into the world of front-end development, experimenting with JavaScript and React.js. Always learning, always growing!
 
