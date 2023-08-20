@@ -7,6 +7,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="margin-left:12px" />
 </div>
 
+## 📫 How to reach me
+
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-username/)
+- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+- Email: your.email@example.com
+
 <!--
 PICTURE/GIF in the middle of the screen
 <p align="center">
