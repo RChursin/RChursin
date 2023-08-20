@@ -1,11 +1,16 @@
 # Hello, world! 👋 I'm Roman Chursin
 
-I'm deeply passionate about automation and have been working extensively with tools like Selenium and the pytest framework. 
-It's been a thrilling journey automating processes at Kajabi. 
-Lately, I've also been diving into the world of front-end development, experimenting with JavaScript and React.js. Always learning, always growing!
+I'm an enthusiastic automation engineer who's honed skills in Selenium coupled with the pytest framework. My journey at Kajabi has been filled with automating processes and ensuring things run smoothly. 
+Lately, I've embarked on a new adventure, stepping into the world of front-end development, and I'm getting my hands dirty with JavaScript and React. Every day is a learning curve, and I'm excited to see where this path takes me!
+
 
 
 <!-- 
+😊 Throughout my time at Kajabi, I've had the chance to play around with some really cool automation tools, especially Selenium and pytest. It's been such a rewarding experience seeing my scripts come to life and streamline tasks! On the side, I've been dipping my toes into front-end development. Playing with JavaScript, React.js, HTML5, and CSS has opened up a whole new world of creativity for me. Every day brings a new challenge and a chance to learn something new, and I absolutely love it!
+
+
+Hi there! In my journey as an automation engineer, I've delved deep into tools like **Selenium** and the **pytest** framework, making the automation processes more efficient at [Company Name]. Beyond automation, my passion has extended to frontend development where I've been honing my skills with **JavaScript**, **React.js**, **HTML5**, and **CSS**. Whether it's designing a seamless user interface or automating complex workflows, I'm always eager to learn and grow!
+
 ## 🛠 Technologies & Tools
 
 ### **Automation:**
