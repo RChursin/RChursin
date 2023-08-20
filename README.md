@@ -4,11 +4,18 @@
 
 
 ### Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/roman-chursin/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
+  </a>
+</p>
+
+<!--
 
 ###
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/roman-chursin/)
 ###
-<!--
+
 **RChursin/RChursin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
