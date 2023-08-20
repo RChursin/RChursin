@@ -4,7 +4,7 @@
 
 
 <div align="left">
-  <div align="left"><h2>I code with:</h2></div>
+  <div align="left"><h2>I code with</h2></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" style="margin-left:12px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="margin-left:12px" />
