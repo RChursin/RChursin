@@ -3,8 +3,9 @@
 </p>
 
 
-### Hi there 👋
-<p align="center">
+
+### 📫 How to reach me: 👇
+<p align="left">
   ### 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/roman-chursin/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
@@ -12,7 +13,7 @@
 </p>
 
 <!--
-
+### Hi there 👋
 ###
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/roman-chursin/)
 ###
