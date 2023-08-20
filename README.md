@@ -17,7 +17,6 @@ I'm an enthusiastic automation engineer who's honed skills in Selenium coupled w
 ## 📫 Let's Connect
 
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/roman-chursin/)
-<!-- - Twitter: [@yourtwitter](https://twitter.com/yourtwitter) -->
 - Email: chursinroman@pm.me
 
 
