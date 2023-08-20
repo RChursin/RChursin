@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/romanchursin/)
+
 <!--
 **RChursin/RChursin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
