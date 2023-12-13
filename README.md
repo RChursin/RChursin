@@ -8,7 +8,8 @@ Every day is a learning curve, and I'm excited to see where this path takes me!
 ## 🛠 Technologies & Tools
 
 ### **Automation:**
-- **Languages & Frameworks:** Python (Selenium, Pytest)
+- **Languages:** Python, JavaScript
+- **Frameworks:** Selenium, Pytest, Cypress, Playwright
 - **CI/CD:** TeamCity, GitHub Actions, Harness
 - **Tools:** SauceLabs, LambdaTest
 
