@@ -1,10 +1,12 @@
-# Hello, world! 👋 I'm Roman Chursin
+Hello, world! 👋 I’m Roman Chursin, a passionate SDET and Front-End Developer with nearly a decade of experience delivering top-notch quality in Web and Mobile applications.
 
-Hey there! I’m really into automation engineering, especially with my go-to languages: JavaScript and Python.
-These languages have been at the core of my adventures in automation, where I’ve gotten hands-on with cool frameworks like Selenium and pytest for Python, as well as Cypress and Playwright for JavaScript setups.  
-Over at Kajabi, I've been using these tools to make things run smoother and more efficiently.  
-I've recently started exploring the world of front-end development, getting a good grip on JavaScript and trying out React.  
-Each day is a chance to learn something new, and I’m just loving the journey and all the opportunities coming my way!
+I thrive on building robust test automation solutions using Python, JavaScript, and my newly embraced TypeScript. Over the years, I’ve engineered and transitioned frameworks using Selenium, Playwright, and Cypress, alongside various CI/CD integrations such as LambdaTest, SauceLabs, BrowserStack, Harness, Jenkins, and GitHub Actions.
+
+While quality assurance is my home turf, I’m equally excited about front-end development. I’ve been diving deeper into React, NextJS and modern JavaScript/TypeScript practices, expanding my skill set to craft efficient, user-friendly interfaces.
+
+Currently at Kajabi, I lead initiatives around automation and process optimization, bridging the gap between development and QA. I thrive on mentoring, architecting test strategies, and constantly exploring new technologies to improve product reliability and user experience.
+
+Each day is a fresh opportunity to sharpen skills and learn something new, and I’m just loving every moment of it. If you’re interested in collaborating, feel free to reach out—let’s connect and build something amazing together!
 
 ## 📫 Let's Connect
 
